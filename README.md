@@ -4,4 +4,4 @@ I did this project in collaboration with UNP. The Company Financials Dashboard p
 
 PROJECT DASHBOARD FILE : https://drive.google.com/file/d/1EeYNX35WycAdUdlCPsNvFmacXkswenD5/view?usp=sharing
 
-PROJECT PDF FILE : https://drive.google.com/file/d/1EPtRzfiux-ot81b95trLx-5k2u8L6Gru/view?usp=sharing
+PROJECT PDF FILE : https://drive.google.com/file/d/1AElvI2A5MkNok-C0qcH0hNnjKkaZ6tSN/view?usp=sharing
